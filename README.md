@@ -1,4 +1,4 @@
-## Hey ho, Hope you doing great! ;)
+## Oi, espero que você esteja dando o seu melhor! Eu sou Lucas, e este é o meu perfil! ;)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100219854/186458838-fe75444a-1d9d-44f9-9b2b-4a771871455a.gif)
 
 
