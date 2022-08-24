@@ -1,6 +1,8 @@
 ## Hey ho, Hope you doing great! ;)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100219854/186458838-fe75444a-1d9d-44f9-9b2b-4a771871455a.gif)
 
-- 🌱 I’m currently learning Java or Python.
+
+- 🌱 I’m currently learning Java and Python.
 - 💬 I believe that with discipline and resilience you can achieve anything!
 - ⚡ I like to the minato, for me he is the best shinobi!
 <div align="center">
