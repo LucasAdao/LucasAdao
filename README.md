@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Java and Python.
+- 	:books: I’m currently learning Java and Python.
 - 💬 I believe that with discipline and resilience you can achieve anything!
 - :exclamation: Character and intelligence are the poles that make the predicates shine, one without the other is half happiness...
 <div align="center">
