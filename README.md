@@ -1,10 +1,11 @@
-## Oi, espero que você esteja dando o seu melhor! Eu sou Lucas, e este é o meu perfil! ;)
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100219854/186458838-fe75444a-1d9d-44f9-9b2b-4a771871455a.gif)
+## Hope you are doing your best! I'm Lucas and this is my profile!
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/100219854/186463455-225d8b40-39f6-463a-9923-aa1d5e4dc058.gif)
+
 
 
 - 🌱 I’m currently learning Java and Python.
 - 💬 I believe that with discipline and resilience you can achieve anything!
-- ⚡ I like to the minato, for me he is the best shinobi!
+- :exclamation: Character and intelligence are the poles that make the predicates shine, one without the other is half happiness...
 <div align="center">
   <a href="https://github.com/LucasAdao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAdao&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
