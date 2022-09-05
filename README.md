@@ -6,7 +6,7 @@
 - 	:books: I’m currently learning Java and Python.
 - 💬 I believe that with discipline and resilience you can achieve anything!
 - :exclamation: Character and intelligence are the poles that make the predicates shine, one without the other is half happiness...
-- :pt-BR: I'm from Brazil!
+- 🇧🇷 I'm from Brazil!
 <div align="center">
   <a href="https://github.com/LucasAdao">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasAdao&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
