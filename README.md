@@ -13,9 +13,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAdao&layout=compact&langs_count=7&theme="highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Lucas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Lucas-HTML" height="40" width="50" src="hh/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Lucas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lucas-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="Lucas-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
   <img align="right" alt="Lucas-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="right" alt="Lucas-Java" height="40" width="50" src="<a href="https://cdnlogo.com/logo/c_760.html"><img src="https://www.cdnlogo.com/logos/c/27/c.svg">
 </div>
