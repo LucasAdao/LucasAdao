@@ -1,4 +1,4 @@
-<h2 align="left">👨🏻‍💻Lucas Adão Fererira</h2>
+<h2 align="left">👨🏻‍💻Lucas Adão Ferreira</h2>
 <div align="left">
   <img height="250" src="https://i.gifer.com/3ZWo.gif"  />
 </div>
