@@ -1,17 +1,37 @@
-## Hope you are doing your best! I'm Lucas and this is my profile!
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/100219854/186463455-225d8b40-39f6-463a-9923-aa1d5e4dc058.gif)
-
-
-
-- 	:books: I’m currently learning Java and Spring.
-- 💬 I believe that with discipline and resilience you can achieve anything!
-- :exclamation: Character and intelligence are the poles that make the predicates shine, one without the other is half happiness...
-- 🇧🇷
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="Lucas-HTML" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
-  <img align="right" alt="Lucas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lucas-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Lucas-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="Lucas-Java" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
+<h2>👨🏻‍💻Lucas Adão Fererira</h2>
+<div align="left">
+  <img height="200" src="https://i.gifer.com/3ZWo.gif"  />
 </div>
+<p></p>
+<div>
+  <ul>
+    <li> :books: Atualmente estou me aperfeiçoando em Springboot e Microsoft Azure.</li>
+    <li> 🍊 Desenvolvedor Backend na Avanade Brasil.</li>
+    <li> 🇧🇷 </li>
+  </ul>
+</div>
+
+<div align="right">
+  <img title="Java" src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img title="Springboot" src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img title="Microsoft Azure" src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/l-ucas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
