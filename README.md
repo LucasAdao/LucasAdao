@@ -6,7 +6,7 @@
 <h2 align="left">Sobre mim:</h2>
 <div align="left">
   <ul text-align="center" list-style-position="inside" >
-    <li> :books: Atualmente estou me aperfeiçoando em Springboot, Microsoft Azure e Angular.</li>
+    <li> :books: Atualmente estou me aperfeiçoando em Springboot, Angular e Microsoft Azure.</li>
     <li> 🍊 Desenvolvedor Backend na Avanade Brasil.</li>
     <li> 🇧🇷 </li>
   </ul>
