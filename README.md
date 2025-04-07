@@ -6,7 +6,7 @@
 <h2 align="left">Sobre mim:</h2>
 <div align="left">
   <ul text-align="center" list-style-position="inside" >
-    <li> :books: Atualmente estou me aperfeiçoando em Springboot e Microsoft Azure.</li>
+    <li> :books: Atualmente estou me aperfeiçoando em Springboot, Microsoft Azure e Angular.</li>
     <li> 🍊 Desenvolvedor Backend na Avanade Brasil.</li>
     <li> 🇧🇷 </li>
   </ul>
@@ -25,6 +25,7 @@
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img title="Microsoft Azure" src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img title="Angular" src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
 </div>
 
 ###
