@@ -14,6 +14,8 @@
 <p></p>
 
 <div align="right">
+  <img title="Angular" src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img width="12" />
   <img title="Java" src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img title="Springboot" src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
@@ -25,8 +27,8 @@
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img title="Microsoft Azure" src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img title="Angular" src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  
+  
 </div>
 
 ###
