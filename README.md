@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="250" src="https://i.gifer.com/3ZWo.gif"  />
-</div>
-<p></p>
 
 ````json
 {
@@ -14,7 +10,7 @@
     },
     {
       "course": "SAD - Systems Analysis and Development",
-      "company": "Estácio"
+      "institution": "Estácio"
     }
   ]
   "hobbies":[
@@ -26,37 +22,40 @@
   ]
 }
 ````
-<p></p>
-<h2 align="left">Certificações</h2>
+
+<h2 align="left">Certifications</h2>
 <h3>Microsoft Azure:</h3>
-
-<p></p>
-
-<div align="right">
-  <img title="Angular" src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img title="Java" src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img title="Springboot" src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img title="Microsoft Azure" src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  
-  
+<div>
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png" alt="Azure AI Fundamentals" title="Azure AI Fundamentals" />
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="https://github.com/user-attachments/assets/a2708245-b599-4d36-942a-a71adb34afac" alt="Azure Fundamentals" title="Azure Fundamentals" />
 </div>
 
-###
+<br>
+
+<h2>Skills:</h2>
+<div align="left">
+  <img title="Angular" src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
+  <img width="12" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img title="Springboot" src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img title="Microsoft Azure" src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />  
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/l-ucas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="140" alt="linkedin logo"  />
   </a>
 </div>
 
-###
+
 
