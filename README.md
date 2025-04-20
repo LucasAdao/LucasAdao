@@ -1,16 +1,35 @@
-<h2 align="left">👨🏻‍💻Lucas Adão Ferreira</h2>
-<div align="left">
+<div align="center">
   <img height="250" src="https://i.gifer.com/3ZWo.gif"  />
 </div>
 <p></p>
-<h2 align="left">Sobre mim:</h2>
-<div align="left">
-  <ul text-align="center" list-style-position="inside" >
-    <li> :books: Atualmente estou me aperfeiçoando em Angular, Springboot e Microsoft Azure.</li>
-    <li> 🍊 Desenvolvedor Backend na Avanade Brasil.</li>
-    <li> 🇧🇷 </li>
-  </ul>
-</div>
+
+````json
+{
+  "name": "Lucas Adão Ferreira",
+  "title": "Software Developer",
+  "roles":[
+    {
+      "name": "Backend Developer",
+      "company": "Avanade"
+    },
+    {
+      "course": "SAD - Systems Analysis and Development",
+      "company": "Estácio"
+    }
+  ]
+  "hobbies":[
+    "Java Development",
+    "Watch Anime and Series",
+    "Gym",
+    "Read",
+    "IA"
+  ]
+}
+````
+<p></p>
+<h2 align="left">Certificações</h2>
+<h3>Microsoft Azure:</h3>
+
 <p></p>
 
 <div align="right">
