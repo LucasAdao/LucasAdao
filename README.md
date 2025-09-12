@@ -13,7 +13,7 @@
       "course": "SAD - Systems Analysis and Development",
       "institution": "Estácio"
     }
-  ]
+  ],
   "hobbies":[
     "Java Development",
     "Watch Anime and Series",
