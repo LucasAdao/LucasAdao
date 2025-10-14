@@ -27,8 +27,8 @@
 <h2 align="left">Certifications</h2>
 <h3>Microsoft Azure:</h3>
 <div>
-  <img height="100" style="max-width: 150px; object-fit: contain;" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png" alt="Azure AI Fundamentals" title="Azure AI Fundamentals" />
-  <img height="100" style="max-width: 150px; object-fit: contain;" src="https://github.com/user-attachments/assets/a2708245-b599-4d36-942a-a71adb34afac" alt="Azure Fundamentals" title="Azure Fundamentals" />
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" title="Azure AI Fundamentals" />
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" title="Azure Fundamentals" />
    <img height="100" style="max-width: 150px; object-fit: contain;" src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/twitter_thumb_201604_azure-data-fundamentals-600x600.png" alt="Azure Fundamentals" title="Azure Data Fundamentals" />
 </div>
 <h3>Github:</h3>
