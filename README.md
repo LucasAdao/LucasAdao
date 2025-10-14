@@ -45,7 +45,7 @@
   <img width="12" />
   <img title="Springboot" src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img width="12" />
-  <img title="dotnet" src="https://skillicons.dev/icons?i=cs" height="60" alt="dotnet logo"  />
+  <img title="C#" src="https://skillicons.dev/icons?i=cs" height="60" alt="C# logo"  />
   <img width="12" />
   <img title="dotnet" src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
   <img width="12" />
