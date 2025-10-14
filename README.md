@@ -29,7 +29,7 @@
 <div>
   <img height="100" style="max-width: 150px; object-fit: contain;" src="https://ensino.fundacaofat.org.br/uploads/2022/07/664fd91b66c61aaffa301f06d8136825.png" alt="Azure AI Fundamentals" title="Azure AI Fundamentals" />
   <img height="100" style="max-width: 150px; object-fit: contain;" src="https://github.com/user-attachments/assets/a2708245-b599-4d36-942a-a71adb34afac" alt="Azure Fundamentals" title="Azure Fundamentals" />
-   <img height="100" style="max-width: 150px; object-fit: contain;" src="https://ensino.fundacaofat.org.br/uploads/2022/04/ef105d63ac58621366d9f0ae2139f466.png" alt="Azure Fundamentals" title="Azure Data Fundamentals" />
+   <img height="100" style="max-width: 150px; object-fit: contain;" src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/twitter_thumb_201604_azure-data-fundamentals-600x600.png" alt="Azure Fundamentals" title="Azure Data Fundamentals" />
 </div>
 <h3>Github:</h3>
 <div>
