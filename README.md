@@ -1,4 +1,3 @@
-<h2>Sejam bem vindos, e lembrem-se que agora é o melhor momento!</h2>
 
 ````json
 {
