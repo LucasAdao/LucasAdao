@@ -23,7 +23,7 @@
 }
 ````
 
-<h2 align="center">Certifications</h2>
+<h2 align="center">Certifications:</h2>
 <h3>Microsoft Azure:</h3>
 <div>
   <img height="100" style="max-width: 150px; object-fit: contain;" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" title="Azure AI Fundamentals" />
