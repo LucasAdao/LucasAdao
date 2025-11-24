@@ -23,7 +23,7 @@
 }
 ````
 
-<h2 align="left">Certifications</h2>
+<h2 align="center">Certifications</h2>
 <h3>Microsoft Azure:</h3>
 <div>
   <img height="100" style="max-width: 150px; object-fit: contain;" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure AI Fundamentals" title="Azure AI Fundamentals" />
@@ -36,8 +36,8 @@
 </div>
 <br>
 
-<h2>Skills:</h2>
-<div align="left">
+<h2 align="center">Skills:</h2>
+<div align="center">
   <img title="Angular" src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
   <img width="12" />
   <img title="Java" src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
