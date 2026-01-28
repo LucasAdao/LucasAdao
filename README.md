@@ -14,7 +14,7 @@
     }
   ],
   "hobbies":[
-    "Java Development",
+    "Java.NET Development",
     "Watch Anime and Series",
     "Gym",
     "Read",
@@ -40,9 +40,9 @@
 <div align="center">
   <img title="Angular" src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
   <img width="12" />
-  <img title="Java" src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img title="Java" src="https://skillicons.dev/icons?i=cs" height="60" alt="c# logo"  />
   <img width="12" />
-  <img title="Springboot" src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img title="Springboot" src="https://skillicons.dev/icons?i=dotnet" height="60" alt=".NET logo"  />
   <img width="12" />
   <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
