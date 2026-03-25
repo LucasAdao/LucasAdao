@@ -46,9 +46,7 @@
   <img width="12" />
   <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img title="Oracle DB" src="https://m.media-amazon.com/images/I/41QodfboFdL._h1_.png" height="55" alt="oracledb logo"  />
   <img width="12" />
   <img title="Microsoft Azure" src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />  
 </div>
