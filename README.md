@@ -46,9 +46,9 @@
   <img width="12" />
   <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img title="Oracle DB" src="https://m.media-amazon.com/images/I/41QodfboFdL._h1_.png" height="55" alt="oracledb logo"  />
-  <img width="12" />
   <img title="Microsoft Azure" src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />  
+  <img width="12" />
+  <img title="Oracle DB" src="https://m.media-amazon.com/images/I/41QodfboFdL._h1_.png" height="50" alt="oracledb logo"  />
 </div>
 
 <br>
