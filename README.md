@@ -14,7 +14,7 @@
     }
   ],
   "hobbies":[
-    "Java/.NET Development",
+    "C#/.NET Development",
     "Watch Anime and Series",
     "Gym",
     "Read",
