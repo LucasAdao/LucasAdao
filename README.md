@@ -9,6 +9,7 @@
       "company": "Avanade"
     },
     {
+      "name": "Student"
       "course": "SAD - Systems Analysis and Development",
       "institution": "Estácio"
     }
